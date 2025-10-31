@@ -51,7 +51,7 @@ CURRENCY_CONVERTER/
 
 🧑‍💻 Author
 
-Abhishek Singh (abhi-2029)
+Abhishek Ranjan (abhi-2029)
 💼 GitHub
 📧 abhisheksingh7024@gmail.com
 
